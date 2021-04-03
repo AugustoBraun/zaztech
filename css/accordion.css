@@ -1,0 +1,18 @@
+#accordion{
+	/* display:inline-block; */
+	min-height:60px;
+	padding:0 4px;
+	text-align:left;
+/* 		width: 100%; */
+}
+#accordion div{
+	display:block;
+	cursor:pointer;
+}
+#accordion ul{
+	display:none;
+}
+#accordion ul li{
+	cursor:auto;
+}
+
